@@ -22,7 +22,6 @@ author:
 avatar: "/assets/icon.png"
 email: darcy.forster@sydney.edu.au
 description: ""
-baseurl: # the subpath of your site, e.g. /blog
 url: "https://darcyforster.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
