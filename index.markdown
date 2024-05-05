@@ -6,7 +6,7 @@ layout: home
 title: About Me
 image: /assets/icon.png
 ---
-I am a PhD candidate at the University of Sydney, Australia currently completing a thesis on the philosophy of Friedrich Schelling. My other areas of interest includes process philosophy, psychedelic science and philosophy of technology.
+I am a PhD candidate at the University of Sydney, Australia currently completing a thesis on the philosophy of Friedrich Schelling. My other areas of interest include process philosophy, psychedelic science and philosophy of technology.
 
 Education:
 ======
