@@ -15,4 +15,4 @@ Education:
 * Ph.D. University of Sydney, 2025 (expected)
 * Visiting Ph.D. candidate, University College Dublin, 2023
 
-<img style=width="220" height="220" src-"/assets/icon.png*>
+<img style="float: right;" width="220" height="220" src-"/assets/icon.png*>
