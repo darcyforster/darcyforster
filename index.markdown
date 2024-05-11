@@ -25,4 +25,4 @@ Education:
 * Visiting Ph.D. candidate, University College Dublin, 2023
   I spent three months at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility Scheme. 
 
-  **Supervisor:** A/Prof. Joseph Cohen
+**Supervisor:** A/Prof. Joseph Cohen
