@@ -13,7 +13,7 @@ The term "ineffable" is commonly used to describe those experiences that seem to
 
 The second aim of my thesis is to draw a historiographical connection between Schelling's use of *intellectual intuition* and *metaphysical empiricism*. Schelling has long been regarded as a 'protean' thinker who failed to hold any consistent philosophical commitments, although scholars began challenging this around the middle of the 20th century. Thus, Schelling scholarship is in the process of determining significant connections between his early and late works.
 
-Schelling adopted the term "intellectual intuition" in the mid-1790s and continued to develop its meaning and application well into the 19th century. However, there was a sudden break in his productivity after 1815 prompted by the death of his wife, Caroline. Afterwards Schelling began to rely more heavily on the spoken word to express his ideas, ceasing to publish any more writings. It is not until the Munich Lectures (1832-3) that Schelling introduces his method of "metaphysical empiricism."
+Schelling adopted the term "intellectual intuition" in the mid-1790s and continued to develop its meaning and application well into the 19th century. However, there was a sudden break in his productivity after 1809 prompted by the death of his wife, Caroline. Afterwards Schelling began to rely more heavily on the spoken word, publishing his last written work in 1812. It was not until the Munich Lectures (1832-3) that Schelling introduced his new method of "metaphysical empiricism." By determining the relationship between intellectual intuition and metaphysical empiricism I hope to establish a thread capable of connecting the early Schelling with the late.
 
 Peer-Reviewed Publications:
 ======
