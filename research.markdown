@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-Thesis:
+Current Project:
 ======
 My thesis focusses on F. W. J. Schelling's (1775-1854) "philosophical methodology" as it is expressed through *intellectual intuition* and *metaphysical empiricism*. The significance I ascribe to these twin terms are twofold. On the one hand, they both point to a form of experiential knowing that attempts to transcend normal *empirical* cognition (i.e., the kind of cognition that depends on the conformity between concept and sensation) and on the other hand, they represent a bridge between Schelling's early and late works.
 
