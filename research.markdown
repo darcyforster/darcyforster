@@ -17,7 +17,7 @@ Schelling adopted the term "intellectual intuition" in 1795 and continued to dev
 
 Peer-Reviewed Publications:
 ======
-* Forster, D. L. (2021). “Mapping the Psyche-Civilization Relationship: How overcoming conceptual dualisms can help us comprehend the trajectory of the human race”, *Journal of Analytical Psychology*, vol. 66(4), pp. 949-968. [https://doi.org/10.1111/1468-5922.12716](https://doi.org/10.1111/1468-5922.12716){:target="_blank"}{:rel="noopener noreferrer"}
+* Forster, D. L. (2021). “Mapping the Psyche-Civilization Relationship: How overcoming conceptual dualisms can help us comprehend the trajectory of the human race”, *Journal of Analytical Psychology*, 66(4), pp. 949-968. [https://doi.org/10.1111/1468-5922.12716](https://doi.org/10.1111/1468-5922.12716){:target="_blank"}{:rel="noopener noreferrer"}
 * Forster, D. L. (2021). “Huxley via Schelling: Toward an aesthetic approach to psychedelic experience”, *Cosmos and History: The Journal of Natural and Social Philosophy*, 17(3), 283–298. [https://cosmosandhistory.org/index.php/journal/article/view/938/1637](https://cosmosandhistory.org/index.php/journal/article/view/938/1637){:target="_blank"}{:rel="noopener noreferrer"}
 
 Talks (selected):
